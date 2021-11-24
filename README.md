@@ -11,7 +11,7 @@ Tech Used:
 
 Its a Full fledged site.
 
-This repository contains all the details of the website. #LGMVIPNOVEMBER21 #TheSparksFoundation
+This repository contains all the details of the website. #LGMVIPNOVEMBER21 #LetsGrowMore
 
 Submitted by-
 Ananay Gupta
