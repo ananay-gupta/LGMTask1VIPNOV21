@@ -1,17 +1,16 @@
-# LGMTask1VIPNOV21
-
-#Single Page Website
+# PROTravel Travel Company Website
 
 Tech Used:
 1. HTML
-2. CSS and Bootstrap
-3. Java Script
+2. CSS 
+3. Bootstrap
+4. Java Script
 
-# Basic Travel Page Site
+# Travel Page Site
 
-Its a Full fledged site.
+It is based on a traveling website with fully-featured functions that will activate the traveling bug with vibrant imagery. 
 
-This repository contains all the details of the website. #LGMVIPNOVEMBER21 #LetsGrowMore
+This website contains highlights of some important places along with high-quality photography and allows people to book their dream destination within their budgets. 
 
-Submitted by-
+Made by-
 Ananay Gupta
